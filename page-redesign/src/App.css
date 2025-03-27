@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.css-3hpdci-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+  color: #9c27b0 !important;
+}
+.css-3hpdci-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed{
+  color: #9c27b0 !important;
+}
+.css-3yr9gi-MuiStepLabel-root.Mui-disabled{
+  cursor: no-drop !important;
+}
+.css-1kngihe-MuiStepper-root .MuiStepLabel-label {
+  font-weight: 600 !important;
+}
+
